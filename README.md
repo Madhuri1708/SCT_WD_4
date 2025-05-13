@@ -1,2 +1,13 @@
-# SCT_WD_4
-A basic To-Do Web App built with HTML, CSS, and JavaScript. Users can add, edit, mark complete, and delete tasks with support for date and time. Developed as part of SkillCraft Technology Task 04.
+# 📝 To-Do Web App
+
+This is a simple and responsive **To-Do Web App** built using **HTML, CSS, and JavaScript** as part of **SkillCraft Technology - Task 04**.
+
+The app allows users to:
+
+- Add and organize to-do tasks
+- Set date and time for each task
+- Mark tasks as completed
+- Edit existing tasks
+- Delete tasks from the list
+
+It is a beginner-friendly project that helps understand DOM manipulation, event handling, and dynamic task management in JavaScript.
